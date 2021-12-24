@@ -11,10 +11,10 @@
 **Front-end**
 |Menu |Title|
 |---  |---|
-|UI-Core | [HTML](https://clouddose.blogspot.com/2020/11/html.html) / [CSS](https://clouddose.blogspot.com/2021/02/css.html) / [Bootstrap](https://clouddose.blogspot.com/2021/06/bootstrap.html) /[Javascript](https://clouddose.blogspot.com/2020/10/javascript.html) / [JQuery](https://clouddose.blogspot.com/2020/11/jquery.html) / [Ajax](https://clouddose.blogspot.com/2021/05/ajax.html) / [Typescript](https://clouddose.blogspot.com/2020/11/typescript.html) / [Dojo](https://clouddose.blogspot.com/2021/06/dojo.html) / [GWT](https://clouddose.blogspot.com/2021/06/gwt.html)
-|UI-Frameworks ||
+|UI-Core | [HTML](https://clouddose.blogspot.com/2020/11/html.html) / [CSS](https://clouddose.blogspot.com/2021/02/css.html) / [Bootstrap](https://clouddose.blogspot.com/2021/06/bootstrap.html) /[Javascript](https://clouddose.blogspot.com/2020/10/javascript.html) / [JQuery](https://clouddose.blogspot.com/2020/11/jquery.html) / [Ajax](https://clouddose.blogspot.com/2021/05/ajax.html) / [Typescript](https://clouddose.blogspot.com/2020/11/typescript.html) / [Dojo](https://clouddose.blogspot.com/2021/06/dojo.html) / [GWT](https://clouddose.blogspot.com/2021/06/gwt.html)|
+|UI-Frameworks |[Angular](https://clouddose.blogspot.com/2020/10/angular.html) / [JSF](https://clouddose.blogspot.com/2020/11/jsf.html) / [Laravel](https://clouddose.blogspot.com/2020/11/laravel.html) / [NodeJs](https://clouddose.blogspot.com/2020/11/node.html) / [React](https://clouddose.blogspot.com/2020/10/react.html) /[VueJs](https://clouddose.blogspot.com/2020/11/vue.html) / [D3](https://clouddose.blogspot.com/2021/05/d3.html) / [BackboneJs](https://clouddose.blogspot.com/2021/05/backbonejs.html) / [EmberJS](https://clouddose.blogspot.com/2021/05/ember.html) |
 |CMS ||
-|Markup ||
+|Markup |[XML](https://clouddose.blogspot.com/2020/11/xml.html) / [JSON](https://clouddose.blogspot.com/2020/11/json.html) / [YAML](https://clouddose.blogspot.com/2020/11/yaml.html)|
 
 
 
