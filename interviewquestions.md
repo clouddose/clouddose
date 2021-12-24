@@ -45,6 +45,23 @@
 **Devops**
 |Menu |Title|
 |---  |---|
+|App-Servers ||
+|Artifact-repo ||
+|Build-tool ||
+|Virtualization ||
+|CDN ||
+|CICD ||
+|Code-Quality ||
+|Collaboration-tools ||
+|Config-mgmt ||
+|Dashboard ||
+|Infra-as-Code ||
+|Logging ||
+|Infrastructure-Monitoring ||
+|Tracing ||
+|Tracking-tools ||
+|VCS ||
+
 
 **Testing**
 |Menu |Title|
