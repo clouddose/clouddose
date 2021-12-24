@@ -11,7 +11,7 @@
 **Front-end**
 |Menu |Title|
 |---  |---|
-|UI-Core ||
+|UI-Core | [HTML](https://clouddose.blogspot.com/2020/11/html.html) / [CSS](https://clouddose.blogspot.com/2021/02/css.html) / [Bootstrap](https://clouddose.blogspot.com/2021/06/bootstrap.html) /[Javascript](https://clouddose.blogspot.com/2020/10/javascript.html) / [JQuery](https://clouddose.blogspot.com/2020/11/jquery.html) / [Ajax](https://clouddose.blogspot.com/2021/05/ajax.html) / [Typescript](https://clouddose.blogspot.com/2020/11/typescript.html) / [Dojo](https://clouddose.blogspot.com/2021/06/dojo.html) / [GWT](https://clouddose.blogspot.com/2021/06/gwt.html)
 |UI-Frameworks ||
 |CMS ||
 |Markup ||
