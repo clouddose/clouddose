@@ -21,6 +21,18 @@
 **Language**
 |Menu |Title|
 |---  |---|
+|Language  ||
+|Architecture  ||
+|Core-Java  ||
+|Infrastructure  ||
+|J2EE  ||
+|AI  ||
+|Spring  ||
+|.NET ||
+|Message broker ||
+|Scripting ||
+|RPA ||
+|IDE-Tools ||
 
 **Database**
 |Menu |Title|
