@@ -57,7 +57,7 @@
 **Devops**
 |Menu |Title|
 |---  |---|
-|App-Servers |[IIS]https://clouddose.blogspot.com/2021/01/iis.html) / [Jetty]https://clouddose.blogspot.com/2021/01/jetty.html) / [Nginx]https://clouddose.blogspot.com/2021/01/nginx.html) / [Tomcat]https://clouddose.blogspot.com/2021/01/tomcat.html) / [WAS-Websphere]https://clouddose.blogspot.com/2021/01/was.html) / [Weblogic]https://clouddose.blogspot.com/2021/04/weblogic.html)|
+|App-Servers |[IIS](https://clouddose.blogspot.com/2021/01/iis.html) / [Jetty](https://clouddose.blogspot.com/2021/01/jetty.html) / [Nginx](https://clouddose.blogspot.com/2021/01/nginx.html) / [Tomcat](https://clouddose.blogspot.com/2021/01/tomcat.html) / [WAS-Websphere](https://clouddose.blogspot.com/2021/01/was.html) / [Weblogic](https://clouddose.blogspot.com/2021/04/weblogic.html)|
 |Artifact-repo |[jFrog](https://clouddose.blogspot.com/2020/12/jfrog.html) / [Nexus](https://clouddose.blogspot.com/2020/12/nexus.html)|
 |Build-tool |[Ant](https://clouddose.blogspot.com/2021/01/ant.html) / [Docker](https://clouddose.blogspot.com/2020/10/docker.html) / [Gradle](https://clouddose.blogspot.com/2020/12/gradle.html) / [Kubernete](https://clouddose.blogspot.com/2020/10/kubernete.html) / [Maven](https://clouddose.blogspot.com/2020/11/maven.html) / [Openshift](https://clouddose.blogspot.com/2020/12/openshift.html) / [Packer](https://clouddose.blogspot.com/2020/11/packers.html)|
 |Virtualization |[Vargrant](https://clouddose.blogspot.com/2020/11/vagrant.html) / [Virtualbox](https://clouddose.blogspot.com/2020/11/virtualbox.html) / [VMWare](https://clouddose.blogspot.com/2020/11/vmware.html)|
