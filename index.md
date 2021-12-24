@@ -2,11 +2,9 @@
 
 |S.no |Menu |SubMenu  |Title|
 |--- |--- |--- |---|
-
-
-**Business**
-  -   Domain 
-    - [Banking](https://clouddose.blogspot.com/2020/11/banking.html)
+|**Business**
+  |Domain 
+  |  - [Banking](https://clouddose.blogspot.com/2020/11/banking.html)
     | [E-Com](https://clouddose.blogspot.com/2020/12/e-com.html)
     | [Education](https://clouddose.blogspot.com/2020/12/education.html)
     | [ERP](https://clouddose.blogspot.com/2020/11/erp.html)
@@ -14,7 +12,7 @@
     | [Insurance](https://clouddose.blogspot.com/2020/12/insurance.html)
     | [Logistics](https://clouddose.blogspot.com/2020/12/logistics.html)
     | [POS](https://clouddose.blogspot.com/2020/11/pos.html)
-    | [Rental-and-lease](https://clouddose.blogspot.com/2020/12/rental-and-lease.html)
+    | [Rental-and-lease](https://clouddose.blogspot.com/2020/12/rental-and-lease.html)|
     
   -   Methodologies
     - [Agile](https://clouddose.blogspot.com/2020/11/agile.html)
