@@ -28,7 +28,7 @@
 |AI | [Machine-learning](https://clouddose.blogspot.com/2020/11/machine-learning.html) / [Deep Learning](https://clouddose.blogspot.com/2021/01/deep-learning.html) / [Data Science](https://clouddose.blogspot.com/2021/01/data-science.html) / [Tensorflow](https://clouddose.blogspot.com/2021/05/tensorflow.html)|
 |Spring |[Annotations](https://clouddose.blogspot.com/2020/11/blog-post.html) / [AOP](https://clouddose.blogspot.com/2020/10/spring-aop.html) / [Batch](https://clouddose.blogspot.com/2020/10/spring-batch.html) / [Boot](https://clouddose.blogspot.com/2020/11/spring-boot.html) / [Cloud](https://clouddose.blogspot.com/2020/11/spring-cloud.html) / [Core](https://clouddose.blogspot.com/2020/11/spring-core.html) / [MVC](https://clouddose.blogspot.com/2020/11/spring-mvc.html) / [Rest](https://clouddose.blogspot.com/2020/10/spring-rest.html) / [Security](https://clouddose.blogspot.com/2020/11/spring-security.html) / [Webflux](https://clouddose.blogspot.com/2020/11/spring-webflux.html)|
 |.NET |[.NET](https://clouddose.blogspot.com/2021/06/net.html) / [C#.NET](https://clouddose.blogspot.com/2021/06/c.html) / [VB.NET](https://clouddose.blogspot.com/2021/06/vbnet.html) / [ADO.NET](https://clouddose.blogspot.com/2021/06/adonet.html) / [ASP.NET](https://clouddose.blogspot.com/2021/06/aspnet.html)|
-|Message broker ||
+|Message broker |[Apache-kafka](https://clouddose.blogspot.com/2020/10/apache-kafka.html) / [RabbitMQ](https://clouddose.blogspot.com/2021/06/rabbitmq.html) / [ActiveMQ](https://clouddose.blogspot.com/2021/06/activemq.html)|
 |Scripting ||
 |RPA ||
 |IDE-Tools ||
