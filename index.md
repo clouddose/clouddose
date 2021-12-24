@@ -1,8 +1,8 @@
 ## Top Interview questions
--Business
--Front-end
--Language
--Database
--Networking
--Devops
--Testing
+- Business
+- Front-end
+- Language
+- Database
+- Networking
+- Devops
+- Testing
