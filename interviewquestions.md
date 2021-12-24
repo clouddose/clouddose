@@ -37,6 +37,16 @@
 **Database**
 |Menu |Title|
 |---  |---|
+|Column-oriented ||
+|Data-warehouse ||
+|Big-data ||
+|Data-visualization ||
+|Key-value ||
+|Document-oriented ||
+|GraphDB ||
+|Time-Series-DB ||
+|Relational ||
+
 
 **Networking**
 |Menu |Title|
