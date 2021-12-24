@@ -38,11 +38,12 @@
 |Column-oriented ||
 |Data-warehouse ||
 |Big-data ||
-|Data-visualization ||
-|Key-value ||
-|Document-oriented ||
-|GraphDB ||
-|Time-Series-DB ||
+|ORM|[JPA](https://clouddose.blogspot.com/2020/11/jpa.html) / [Hibernate](https://clouddose.blogspot.com/2020/11/hibernate.html) / [IBatis / MyBatis](https://clouddose.blogspot.com/2020/12/ibatis-mybatis.html)|
+|Data-visualization |[PowerBI](https://clouddose.blogspot.com/2020/11/powerbi.html) / [Tableau](https://clouddose.blogspot.com/2020/11/tableau.html) / [Talend](https://clouddose.blogspot.com/2021/01/talend.html) / [Qlikview](https://clouddose.blogspot.com/2021/05/qlikview.html)|
+|Key-value |[Redis](https://clouddose.blogspot.com/2020/11/redis.html) / [MemcacheDB](https://clouddose.blogspot.com/2020/12/memcachedb.html) / [Aerospike](https://clouddose.blogspot.com/2020/12/aerospike.html)|
+|Document-oriented |[MongoDB](https://clouddose.blogspot.com/2020/11/mongodb.html) / [Couchbase](https://clouddose.blogspot.com/2020/12/couchbase.html)|
+|GraphDB |[Neo4j](https://clouddose.blogspot.com/2020/11/neo4j.html) / [OrientDB](https://clouddose.blogspot.com/2020/12/orientdb.html)|
+|Time-Series-DB |[Graphite](https://clouddose.blogspot.com/2020/11/graphite.html) / [Influxdb](https://clouddose.blogspot.com/2020/11/influxdb.html) / [Opentsdb](https://clouddose.blogspot.com/2020/11/opentsdb.html) / [Timescaledb](https://clouddose.blogspot.com/2020/11/timescaledb.html)|
 |Relational |[SQL](https://clouddose.blogspot.com/2021/06/sql.html) / [DB2](https://clouddose.blogspot.com/2021/04/db2.html) / [PL-Sql](https://clouddose.blogspot.com/2021/04/pl-sql.html) / [SQLLite](https://clouddose.blogspot.com/2021/04/sqllite.html) / [H2](https://clouddose.blogspot.com/2020/12/h2-database.html) / [Postgresql](https://clouddose.blogspot.com/2020/11/postgresql.html) / [MariaDB](https://clouddose.blogspot.com/2021/04/mariadb.html) / [My-SQL](https://clouddose.blogspot.com/2020/11/my-sql.html) / [Oracle](https://clouddose.blogspot.com/2021/01/oracle.html) / [SSIS](https://clouddose.blogspot.com/2021/05/ssis.html) |
 
 
