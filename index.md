@@ -1,5 +1,9 @@
 ## Top Interview questions
 - Business
+  -   Domain
+  -   Methodologies
+  -   BPM
+  -   Product
 - Front-end
 - Language
 - Database
