@@ -17,7 +17,6 @@
 |Markup |[XML](https://clouddose.blogspot.com/2020/11/xml.html) / [JSON](https://clouddose.blogspot.com/2020/11/json.html) / [YAML](https://clouddose.blogspot.com/2020/11/yaml.html)|
 
 
-
 **Language**
 |Menu |Title|
 |---  |---|
@@ -29,9 +28,9 @@
 |Spring |[Annotations](https://clouddose.blogspot.com/2020/11/blog-post.html) / [AOP](https://clouddose.blogspot.com/2020/10/spring-aop.html) / [Batch](https://clouddose.blogspot.com/2020/10/spring-batch.html) / [Boot](https://clouddose.blogspot.com/2020/11/spring-boot.html) / [Cloud](https://clouddose.blogspot.com/2020/11/spring-cloud.html) / [Core](https://clouddose.blogspot.com/2020/11/spring-core.html) / [MVC](https://clouddose.blogspot.com/2020/11/spring-mvc.html) / [Rest](https://clouddose.blogspot.com/2020/10/spring-rest.html) / [Security](https://clouddose.blogspot.com/2020/11/spring-security.html) / [Webflux](https://clouddose.blogspot.com/2020/11/spring-webflux.html)|
 |.NET |[.NET](https://clouddose.blogspot.com/2021/06/net.html) / [C#.NET](https://clouddose.blogspot.com/2021/06/c.html) / [VB.NET](https://clouddose.blogspot.com/2021/06/vbnet.html) / [ADO.NET](https://clouddose.blogspot.com/2021/06/adonet.html) / [ASP.NET](https://clouddose.blogspot.com/2021/06/aspnet.html)|
 |Message broker |[Apache-kafka](https://clouddose.blogspot.com/2020/10/apache-kafka.html) / [RabbitMQ](https://clouddose.blogspot.com/2021/06/rabbitmq.html) / [ActiveMQ](https://clouddose.blogspot.com/2021/06/activemq.html)|
-|Scripting ||
-|RPA ||
-|IDE-Tools ||
+|Scripting |[Python](https://clouddose.blogspot.com/2020/11/python.html) / [Shell](https://clouddose.blogspot.com/2020/11/shell.html) / [Powershell](https://clouddose.blogspot.com/2021/06/powershell.html)|
+|RPA |[Blue prism](https://clouddose.blogspot.com/2021/01/blue-prism.html) / [UiPATH](https://clouddose.blogspot.com/2021/01/uipath.html) / [Automation anywhere](https://clouddose.blogspot.com/2021/04/automation-anywhere.html)|
+|IDE-Tools |[Eclipse](https://clouddose.blogspot.com/2020/11/eclipse.html) / [Intelij](https://clouddose.blogspot.com/2020/11/intellij-idea.html) / [Netbeans](https://clouddose.blogspot.com/2020/12/netbeans.html)|
 
 **Database**
 |Menu |Title|
