@@ -21,9 +21,8 @@
 **Language**
 |Menu |Title|
 |---  |---|
-|Language  ||
-|Architecture  ||
-|Core-Java  ||
+|Architecture  |[DSA](https://clouddose.blogspot.com/2020/12/algorithms.html) / [Design-pattern](https://clouddose.blogspot.com/2020/12/scr-design-pattern.html) / [Microservice](https://clouddose.blogspot.com/2020/11/microservice.html)|
+|Core-Java  | [Collections](https://clouddose.blogspot.com/2021/06/collections.html") / [Exception-handling](https://clouddose.blogspot.com/2020/11/exception-handling.html") /  [Multithread](https://clouddose.blogspot.com/2021/01/multithread.html") /  [OOPS](https://clouddose.blogspot.com/2020/11/oops.html") /  [Serialization](https://clouddose.blogspot.com/2021/06/serialization.html") |
 |Infrastructure  ||
 |J2EE  ||
 |AI  ||
