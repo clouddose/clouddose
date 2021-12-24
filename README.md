@@ -67,12 +67,12 @@
 |Collaboration-tools |[Confluence](https://clouddose.blogspot.com/2020/12/confluence.html) / [Sharepoint](https://clouddose.blogspot.com/2020/12/sharepoint.html) / [Slack](https://clouddose.blogspot.com/2020/12/slack.html) / [Trello](https://clouddose.blogspot.com/2020/12/trello.html)|
 |Config-mgmt |[CFEngine](https://clouddose.blogspot.com/2021/05/cfengine.html) / [Chef](https://clouddose.blogspot.com/2020/11/chef.html) / [Fabric](https://clouddose.blogspot.com/2020/12/fabric.html) / [Puppet](https://clouddose.blogspot.com/2020/11/puppet.html) / [SaltStack](https://clouddose.blogspot.com/2020/12/saltstack.html)|
 |Dashboard |[Datadog](https://clouddose.blogspot.com/2020/11/datadog.html) / [Dynatrace](https://clouddose.blogspot.com/2020/10/dynatrace.html) / [ELK](https://clouddose.blogspot.com/2021/01/elk.html) [Elasticsearch](https://clouddose.blogspot.com/2021/04/elasticsearch_16.html) / [Logstash](https://clouddose.blogspot.com/2021/04/logstash.html) / [Kibana](https://clouddose.blogspot.com/2020/11/kibana.html) / [Grafana](https://clouddose.blogspot.com/2020/11/grafana.html) / [Prometheus](https://clouddose.blogspot.com/2020/11/prometheus.html) / [Splunk](https://clouddose.blogspot.com/2020/10/splunk.html)|
-|Infra-as-Code ||
-|Logging ||
-|Infrastructure-Monitoring ||
-|Tracing ||
-|Tracking-tools ||
-|VCS ||
+|Infra-as-Code |[Ansible](https://clouddose.blogspot.com/2020/10/ansible.html) / [Terraform](https://clouddose.blogspot.com/2020/11/terraform.html)|
+|Logging |[Log4j](https://clouddose.blogspot.com/2020/12/log4j.html) / [Log4j2](https://clouddose.blogspot.com/2021/06/log4j2.html) / [SLF4J](https://clouddose.blogspot.com/2021/06/slf4j.html)|
+|Infrastructure-Monitoring |[Appdynamics](https://clouddose.blogspot.com/2020/12/appdynamics.html) / [NPM](https://clouddose.blogspot.com/2020/12/npm.html) / [Nagios](https://clouddose.blogspot.com/2020/11/nagios.html) / [Zabbix](https://clouddose.blogspot.com/2020/11/zabbix.html) / [Icinga](https://clouddose.blogspot.com/2020/12/icinga.html) / [Sumologic](https://clouddose.blogspot.com/2020/11/sumo-logic.html) / [New Relic APM](https://clouddose.blogspot.com/2020/12/new-relic-apm.html) / [Pingdom](https://clouddose.blogspot.com/2020/12/pingdom.html)|
+|Tracing |[Jaeger](https://clouddose.blogspot.com/2020/11/jaeger.html) / [OpenTracing](https://clouddose.blogspot.com/2021/01/opentracing.html) / [Zipkin](https://clouddose.blogspot.com/2020/11/zipkin.html)|
+|Tracking-tools |[JIRA](https://clouddose.blogspot.com/2020/11/jira.html) / [PageDuty](https://clouddose.blogspot.com/2020/11/pagerduty.html) / [Redmine](https://clouddose.blogspot.com/2020/12/redmine.html) / [ServiceNow](https://clouddose.blogspot.com/2020/11/servicenow.html) / [TFS](https://clouddose.blogspot.com/2020/12/tfs-team-foundation-server.html)|
+|VCS |[Github](https://clouddose.blogspot.com/2020/10/github.html) / [Bitbucket](https://clouddose.blogspot.com/2020/12/bitbucket.html) / [Helix](https://clouddose.blogspot.com/2020/12/helix.html) / [Subversion](https://clouddose.blogspot.com/2021/01/subversion.html)|
 
 
 **Testing**
