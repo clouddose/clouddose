@@ -57,16 +57,18 @@
 **Devops**
 |Menu |Title|
 |---  |---|
-|App-Servers ||
-|Artifact-repo ||
-|Build-tool ||
-|Virtualization ||
-|CDN ||
-|CICD ||
-|Code-Quality ||
-|Collaboration-tools ||
-|Config-mgmt ||
-|Dashboard ||
+|App-Servers |[IIS]https://clouddose.blogspot.com/2021/01/iis.html) / [Jetty]https://clouddose.blogspot.com/2021/01/jetty.html) / [Nginx]https://clouddose.blogspot.com/2021/01/nginx.html) / [Tomcat]https://clouddose.blogspot.com/2021/01/tomcat.html) / [WAS-Websphere]https://clouddose.blogspot.com/2021/01/was.html) / [Weblogic]https://clouddose.blogspot.com/2021/04/weblogic.html)|
+|Artifact-repo |[jFrog](https://clouddose.blogspot.com/2020/12/jfrog.html) / [Nexus](https://clouddose.blogspot.com/2020/12/nexus.html)|
+|Build-tool |[Ant](https://clouddose.blogspot.com/2021/01/ant.html) / [Docker](https://clouddose.blogspot.com/2020/10/docker.html) / [Gradle](https://clouddose.blogspot.com/2020/12/gradle.html) / [Kubernete](https://clouddose.blogspot.com/2020/10/kubernete.html) / [Maven](https://clouddose.blogspot.com/2020/11/maven.html) / [Openshift](https://clouddose.blogspot.com/2020/12/openshift.html) / [Packer](https://clouddose.blogspot.com/2020/11/packers.html)|
+|Virtualization |[Vargrant](https://clouddose.blogspot.com/2020/11/vagrant.html) / [Virtualbox](https://clouddose.blogspot.com/2020/11/virtualbox.html) / [VMWare](https://clouddose.blogspot.com/2020/11/vmware.html)|
+|CDN |[Akamai](https://clouddose.blogspot.com/2020/11/akamai.html) / [Cloudflare](https://clouddose.blogspot.com/2020/11/cloudflare.html)|
+|CICD |[Bamboo](https://clouddose.blogspot.com/2020/11/bamboo.html) / [Capistrano](https://clouddose.blogspot.com/2020/12/capistrano.html) / [Jenkins](https://clouddose.blogspot.com/2020/10/jenkins.html) / [Travis CI](https://clouddose.blogspot.com/2020/11/travis-ci.html) / [udeploy](https://clouddose.blogspot.com/2021/01/udeploy.html)|
+|Code-Quality |[SonarQube](https://clouddose.blogspot.com/2020/11/sonarcube.html)|
+|Collaboration-tools |[Confluence](https://clouddose.blogspot.com/2020/12/confluence.html) / [Sharepoint](https://clouddose.blogspot.com/2020/12/sharepoint.html) / [Slack](https://clouddose.blogspot.com/2020/12/slack.html) / [Trello](https://clouddose.blogspot.com/2020/12/trello.html)|
+|Config-mgmt |[CFEngine](https://clouddose.blogspot.com/2021/05/cfengine.html) / [Chef](https://clouddose.blogspot.com/2020/11/chef.html) / [Fabric](https://clouddose.blogspot.com/2020/12/fabric.html) / [Puppet](https://clouddose.blogspot.com/2020/11/puppet.html) / [SaltStack](https://clouddose.blogspot.com/2020/12/saltstack.html)|
+|Dashboard |[Datadog](https://clouddose.blogspot.com/2020/11/datadog.html) / [Dynatrace](https://clouddose.blogspot.com/2020/10/dynatrace.html)
+[ELK](https://clouddose.blogspot.com/2021/01/elk.html)-Elasticsearch](https://clouddose.blogspot.com/2021/04/elasticsearch_16.html) /
+[Logstash](https://clouddose.blogspot.com/2021/04/logstash.html) / [Kibana](https://clouddose.blogspot.com/2020/11/kibana.html) / [Grafana](https://clouddose.blogspot.com/2020/11/grafana.html) / [Prometheus](https://clouddose.blogspot.com/2020/11/prometheus.html) / [Splunk](https://clouddose.blogspot.com/2020/10/splunk.html)|
 |Infra-as-Code ||
 |Logging ||
 |Infrastructure-Monitoring ||
