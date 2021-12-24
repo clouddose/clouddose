@@ -11,14 +11,23 @@
     | [Logistics](https://clouddose.blogspot.com/2020/12/logistics.html)
     | [POS](https://clouddose.blogspot.com/2020/11/pos.html)
     | [Rental-and-lease](https://clouddose.blogspot.com/2020/12/rental-and-lease.html)
+    
   -   Methodologies
-    [Agile](https://clouddose.blogspot.com/2020/11/agile.html)
+    - [Agile](https://clouddose.blogspot.com/2020/11/agile.html)
     | [Kanban](https://clouddose.blogspot.com/2021/05/kanban.html)
     | [Product-owner](https://clouddose.blogspot.com/2021/05/product-owners.html)
     | [Business-analyst](https://clouddose.blogspot.com/2021/05/business-analyst.html)
     
   -   BPM
+    - [Pega](https://clouddose.blogspot.com/2021/05/pega.html)     
+    
   -   Product
+    - [Peoplesoft](https://clouddose.blogspot.com/2021/04/peoplesoft.html)
+    | [SAP](https://clouddose.blogspot.com/2021/05/sap.html)
+    | [T24](https://clouddose.blogspot.com/2021/06/t24.html)
+    | [Fluxcube](https://clouddose.blogspot.com/2021/06/fluxcube.html)
+    | [Finacle](https://clouddose.blogspot.com/2021/06/finacle.html)
+    | [Salesforce](https://clouddose.blogspot.com/2021/02/salesforce.html)
 
 **Front-end**
 
