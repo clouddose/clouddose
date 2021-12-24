@@ -43,7 +43,7 @@
 |Document-oriented ||
 |GraphDB ||
 |Time-Series-DB ||
-|Relational ||
+|Relational |[SQL](https://clouddose.blogspot.com/2021/06/sql.html) / [DB2](https://clouddose.blogspot.com/2021/04/db2.html) / [PL-Sql](https://clouddose.blogspot.com/2021/04/pl-sql.html) / [SQLLite](https://clouddose.blogspot.com/2021/04/sqllite.html) / [H2](https://clouddose.blogspot.com/2020/12/h2-database.html) / [Postgresql](https://clouddose.blogspot.com/2020/11/postgresql.html) / [MariaDB](https://clouddose.blogspot.com/2021/04/mariadb.html) / [My-SQL](https://clouddose.blogspot.com/2020/11/my-sql.html) / [Oracle](https://clouddose.blogspot.com/2021/01/oracle.html) / [SSIS](https://clouddose.blogspot.com/2021/05/ssis.html) |
 
 
 **Networking**
