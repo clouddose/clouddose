@@ -1,8 +1,8 @@
 ## Top Interview questions
 
-|S.no |Menu |SubMenu  |Title|
-|--- |--- |--- |---|
-|**Business** |Domain 
+|S.no |Menu |Title|
+|--- |---  |---|
+|**Business** | Domain 
     | [Banking](https://clouddose.blogspot.com/2020/11/banking.html)
     | [E-Com](https://clouddose.blogspot.com/2020/12/e-com.html)
     | [Education](https://clouddose.blogspot.com/2020/12/education.html)
