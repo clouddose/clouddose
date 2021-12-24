@@ -80,3 +80,6 @@
 **Testing**
 |Menu |Title|
 |---  |---|
+|Manual testing ||
+|Automation testing ||
+|Testing frameworks ||
