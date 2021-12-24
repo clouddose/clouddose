@@ -12,6 +12,11 @@
        - [POS](https://clouddose.blogspot.com/2020/11/pos.html)
        - [Rental-and-lease](https://clouddose.blogspot.com/2020/12/rental-and-lease.html)
   -   Methodologies
+    -[Agile](https://clouddose.blogspot.com/2020/11/agile.html)
+    -[Kanban](https://clouddose.blogspot.com/2021/05/kanban.html)
+    -[Product-owner](https://clouddose.blogspot.com/2021/05/product-owners.html)
+    -[Business-analyst](https://clouddose.blogspot.com/2021/05/business-analyst.html)
+    
   -   BPM
   -   Product
 
