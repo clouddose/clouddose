@@ -23,7 +23,7 @@
 |---  |---|
 |Architecture  |[DSA](https://clouddose.blogspot.com/2020/12/algorithms.html) / [Design-pattern](https://clouddose.blogspot.com/2020/12/scr-design-pattern.html) / [Microservice](https://clouddose.blogspot.com/2020/11/microservice.html)|
 |Core-Java  | [Collections](https://clouddose.blogspot.com/2021/06/collections.html") / [Exception-handling](https://clouddose.blogspot.com/2020/11/exception-handling.html") /  [Multithread](https://clouddose.blogspot.com/2021/01/multithread.html") /  [OOPS](https://clouddose.blogspot.com/2020/11/oops.html") /  [Serialization](https://clouddose.blogspot.com/2021/06/serialization.html") |
-|Infrastructure  ||
+|Infrastructure  | [AWS](https://clouddose.blogspot.com/2021/07/aws.html) / [Azure](https://clouddose.blogspot.com/2020/11/azure.html) / [GCP](https://clouddose.blogspot.com/2020/11/gcp-index.html) / [IBM cloud](https://clouddose.blogspot.com/2021/01/ibm-cloud.html) / [Openstack](https://clouddose.blogspot.com/2021/06/openstack.html) / [Oracle cloud](https://clouddose.blogspot.com/2021/01/oracle-cloud.html) / [Allibaba cloud](https://clouddose.blogspot.com/2021/01/allibaba-cloud.html) / [PCF](https://clouddose.blogspot.com/2020/11/pcf.html) |
 |J2EE  ||
 |AI  ||
 |Spring  ||
