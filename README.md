@@ -35,9 +35,9 @@
 **Database**
 |Menu |Title|
 |---  |---|
-|Column-oriented ||
-|Data-warehouse ||
-|Big-data ||
+|Column-oriented |[Apache HBase](https://clouddose.blogspot.com/2020/11/hbase.html) / [Cassandra](https://clouddose.blogspot.com/2020/12/cassandra.html)|
+|Data-warehouse |[DataStage](https://clouddose.blogspot.com/2021/01/datastage.html') / [Data-warehouse](https://clouddose.blogspot.com/2021/01/data-warehouse.html')/ [ELT](https://clouddose.blogspot.com/2021/07/elt.html') / [ETL](https://clouddose.blogspot.com/2021/01/etl.html') / [Informatica](https://clouddose.blogspot.com/2021/01/informatica.html') / [OLAP](https://clouddose.blogspot.com/2021/07/olap.html')|
+|Big-data |[Flume](https://clouddose.blogspot.com/2020/11/flume.html') / [Sqoop](https://clouddose.blogspot.com/2020/11/sqoop.html') / [Hive](https://clouddose.blogspot.com/2020/11/hive.html') /[Pig](https://clouddose.blogspot.com/2020/11/pig.html') / [Ambari](https://clouddose.blogspot.com/2021/07/ambari.html) / [Oozie](https://clouddose.blogspot.com/2020/11/oozie.html') / [HBase](https://clouddose.blogspot.com/2020/11/hbase.html') / [Manhout](https://clouddose.blogspot.com/2020/11/mahout.html') / [Zookeeper](https://clouddose.blogspot.com/2020/11/zookeeper.html') / [MapReduce](https://clouddose.blogspot.com/2020/11/mapreduce.html') / [Yarn](https://clouddose.blogspot.com/2020/11/yarn.html')|
 |ORM|[JPA](https://clouddose.blogspot.com/2020/11/jpa.html) / [Hibernate](https://clouddose.blogspot.com/2020/11/hibernate.html) / [IBatis / MyBatis](https://clouddose.blogspot.com/2020/12/ibatis-mybatis.html)|
 |Data-visualization |[PowerBI](https://clouddose.blogspot.com/2020/11/powerbi.html) / [Tableau](https://clouddose.blogspot.com/2020/11/tableau.html) / [Talend](https://clouddose.blogspot.com/2021/01/talend.html) / [Qlikview](https://clouddose.blogspot.com/2021/05/qlikview.html)|
 |Key-value |[Redis](https://clouddose.blogspot.com/2020/11/redis.html) / [MemcacheDB](https://clouddose.blogspot.com/2020/12/memcachedb.html) / [Aerospike](https://clouddose.blogspot.com/2020/12/aerospike.html)|
