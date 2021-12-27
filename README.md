@@ -51,10 +51,9 @@
 |Menu |Title|
 |---  |---|
 |Networking |[CCNA](https://clouddose.blogspot.com/2021/05/ccna.html)|
-|Linux |[UBuntu](https://clouddose.blogspot.com/2021/01/ubuntu.html) / [Linux mint](https://clouddose.blogspot.com/2021/01/lx-linux-mint.html) / [Debian](https://clouddose.blogspot.com/2021/01/lx-debian.html) / [Fedora](https://clouddose.blogspot.com/2021/01/fedora.html) / [Red hat enterprise](https://clouddose.blogspot.com/2021/01/lx-red-hat-enterprise.html) / [CentOS](https://clouddose.blogspot.com/2021/01/lx-centos.html)  
-[OpenSUSE](https://clouddose.blogspot.com/2021/01/opensuse.html) / [Arch Linux](https://clouddose.blogspot.com/2021/01/lx-arch-linux.html)|
+|Linux |[UBuntu](https://clouddose.blogspot.com/2021/01/ubuntu.html) / [Linux mint](https://clouddose.blogspot.com/2021/01/lx-linux-mint.html) / [Debian](https://clouddose.blogspot.com/2021/01/lx-debian.html) / [Fedora](https://clouddose.blogspot.com/2021/01/fedora.html) / [Red hat enterprise](https://clouddose.blogspot.com/2021/01/lx-red-hat-enterprise.html) / [CentOS](https://clouddose.blogspot.com/2021/01/lx-centos.html)/[OpenSUSE](https://clouddose.blogspot.com/2021/01/opensuse.html) / [Arch Linux](https://clouddose.blogspot.com/2021/01/lx-arch-linux.html)|
 |Packet-analyzer |[Wireshark](https://clouddose.blogspot.com/2021/02/wireshark.html)|
-|Remote-Computing |[Putty](https://clouddose.blogspot.com/2020/12/putty.html) / [Mobaxterm](https://clouddose.blogspot.com/2020/12/mobaxterm.html|
+|Remote-Computing |[Putty](https://clouddose.blogspot.com/2020/12/putty.html) / [Mobaxterm](https://clouddose.blogspot.com/2020/12/mobaxterm.html)|
 
 **Devops**
 |Menu |Title|
